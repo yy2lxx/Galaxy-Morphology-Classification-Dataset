@@ -1,4 +1,4 @@
-# Galaxy-Morphology-Classification-Dataset
+# Galaxy Morphology Classification Dataset
 星系形态分类数据集
 
 1、包含大中小三个数据集，每个数据集都打好了标签，可以直接使用。
